@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Lalit Yadav</h1>
 <h4>An artist of the digital realm, weaving lines of code into intricate tapestries.</h4>
-<hr>
+<hr style="border: none; height: 1px; color: #333; background-color: #333;">
 
 <h3> Tech Stacks</h3>
 <hr>
