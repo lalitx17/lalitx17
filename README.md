@@ -3,7 +3,7 @@
 <hr style="border: none; height: 1px; color: #333; background-color: #333;">
 
 <h3> Tech Stacks</h3>
-<hr>
+<hr style="border: none; height: 1px; color: #333; background-color: #333;">
 <h4>Tinkering around with..</h4>
 <ul>
   <li>Python3</li>
@@ -33,7 +33,7 @@
 <br>
 <!-- contacts -->
 <h3>Contacts</h3>
-<hr>
+<hr style="border: none; height: 1px; color: #333; background-color: #333;">
 <ul>
   <li><a href="mailto:lalityadav.x17@gmail.com">Email</a></li>
   <li><a href="www.discord/users/845576764705341470">Discord</a></li>
