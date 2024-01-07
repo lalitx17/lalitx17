@@ -1,22 +1,40 @@
-<h1 align="center">👋 Hi, I'm Lalit Yadav</h1>
-<h3 align="center">An artist of the digital realm, weaving lines of code into intricate tapestries.</h3>
+<h1>👋 Hi, I'm Lalit Yadav</h1>
+<h4>An artist of the digital realm, weaving lines of code into intricate tapestries.</h4>
 <hr>
 
-- 🔭 I’m currently working on [ipo_notifier](https://github.com/lalitx17/ipo_notifier)
+<h3> Tech Stacks</h3>
+<hr>
+<h4>Tinkering around with..</h4>
+<ul>
+  <li>Python3</li>
+  <ul>
+    <li><i>numpy</i></li>
+    <li><i>pandas</i></li>
+    <li><i>scikit learn</i></li>
+    <li><i>Tensorflow</i></li>
+  </ul>
+  <br>
+  <li>Javascript/TypeScript</li>
+    <ul>
+    <li><i>React.js</i></li>
+    <li><i>Next.js</i></li>
+    <li><i>Node.js</i></li>
+  </ul>
+  <br>
+  <li>C/C++</li>
+</ul>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **lalityadav.x17@gmail.com**
+<h4>Backlog Bundle..</h4>
+<ul>
+  <li>Rust</li>
+  <li>Pytorch</li>
+  <li>Deep Reinforcement Learning </li>
+</ul>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lalitx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalitx17" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lalit-yadav-313b24227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit yadav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lalitx17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lalitx17" height="30" width="40" /></a>
-<a href="https://discord.gg/.grusome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".grusome" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br>
-
+<!-- contacts -->
+<h3>Contacts</h3>
+<hr>
+<ul>
+  <li><a href="mailto:lalityadav.x17@gmail.com">Email</a></li>
+  <li><a href="www.discord/users/845576764705341470">Discord</a></li>
+</ul>
