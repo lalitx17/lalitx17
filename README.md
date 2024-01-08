@@ -1,9 +1,9 @@
 <h1>👋 Hi, I'm Lalit Yadav</h1>
-<h4>An artist of the digital realm, weaving lines of code into intricate tapestries.</h4>
-<hr style="border: none; height: 1px; color: #333; background-color: #333;">
+<p> artist of the digital realm, weaving lines of code into intricate tapestries.</p>
 
-<h3> Tech Stacks</h3>
-<hr style="border: none; height: 1px; color: #333; background-color: #333;">
+
+<h2> Tech Stacks</h2>
+
 <h4>Tinkering around with..</h4>
 <ul>
   <li>Python3</li>
@@ -32,8 +32,8 @@
 </ul>
 <br>
 <!-- contacts -->
-<h3>Contacts</h3>
-<hr style="border: none; height: 1px; color: #333; background-color: #333;">
+<h2>Contacts</h2>
+              
 <ul>
   <li><a href="mailto:lalityadav.x17@gmail.com">Email</a></li>
   <li><a href="www.discord/users/845576764705341470">Discord</a></li>
