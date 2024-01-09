@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Lalit Yadav</h1>
-<p> artist of the digital realm, weaving lines of code into intricate tapestries.</p>
+<p>An artist of the digital realm, weaving lines of code into intricate tapestries.</p>
 
 
 <h2> Tech Stacks</h2>
