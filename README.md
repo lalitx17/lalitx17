@@ -23,14 +23,6 @@
   <br>
   <li>C/C++</li>
 </ul>
-
-<h4>Backlog Bundle..</h4>
-<ul>
-  <li>Rust</li>
-  <li>Pytorch</li>
-  <li>Deep Reinforcement Learning </li>
-</ul>
-<br>
 <!-- contacts -->
 <h2>Contacts</h2>
               
