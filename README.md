@@ -26,5 +26,5 @@
               
 <ul>
   <li><a href="mailto:lalityadav.x17@gmail.com">Email</a></li>
-  <li><a href="www.discord/users/845576764705341470">Discord</a></li>
+  <li><a href="www.discord.com/users/845576764705341470">Discord</a></li>
 </ul>
