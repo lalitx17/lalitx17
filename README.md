@@ -1,1 +1,1 @@
-<ul>👋 Hi, I’m @lalit</ul>
+<ul>👋 Hi, I’m lalit</ul>
